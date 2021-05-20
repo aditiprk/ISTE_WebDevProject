@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient( 45deg, #ccffff, #ffcccc);
+}
+
+.menu{
+    text-decoration: none;
+}
+.menu:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color:red;
+}
